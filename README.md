@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Samuelson Dharmawan Tanuraharja!</h1>
+<h1 align="center">Hi there, I'm Samuelson Dharmawan Tanuraharja!👋</h1>
 <p align="center">
   Data Science, Machine Learning, and Software Engineering Enthusiast | 2nd Year Computer Science Student @ ITB <br><br>
   <a href="https://github.com/samuelsondhrm">
