@@ -8,7 +8,6 @@
   <a href="https://github.com/samuelsondhrm">
     <img height=200 align="center" src="https://github-readme-stats-rouge-one-59.vercel.app/api/top-langs?username=samuelsondhrm&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a><br>
-  Find me at:<br>
   <a href="https://instagram.com/samuelsondhrm">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
