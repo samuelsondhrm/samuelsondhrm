@@ -2,11 +2,11 @@
 <p align="center">
   Software Engineering and AI/ML  Enthusiast | 2nd Year Computer Science Student @ ITB <br><br>
   <a href="https://github.com/samuelsondhrm">
-    <img height=200 align="center" src="https://github-readme-stats-rouge-one-59.vercel.app/api?username=samuelsondhrm&layout=compact&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelsondhrm&layout=compact&theme=dark" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/samuelsondhrm">
-    <img height=200 align="center" src="https://github-readme-stats-rouge-one-59.vercel.app/api/top-langs?username=samuelsondhrm&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsondhrm&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a><br><br>
   <a href="https://instagram.com/samuelsondhrm">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
